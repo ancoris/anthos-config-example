@@ -1,0 +1,6 @@
+# [START anthosconfig_quickstart_namespaces_hello_namespace] 
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hello
+# [END anthosconfig_quickstart_namespaces_hello_namespace] 
